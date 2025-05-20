@@ -1,1 +1,1 @@
-[[Idolon]] is a savant of embodiment (Corvus Gesemane, Malbor).
+[[Eidolon]] is a savant of embodiment (Corvus Gesemane, Malbor).

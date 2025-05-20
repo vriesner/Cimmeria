@@ -6,9 +6,9 @@ Era of Apostasy Episode 2. 1:42:00
 
 [[Veil Fire]] - Creation. Source of [[Divine]]. White and gold. golden feather plummage bright white skin wings. tails of gold feathers. Feathers. Separates mortals and gods.
 
-[[Rivers]] - Light blue and gold. Gord.
+[[Rivyrs]] - Light blue and gold. Gord.
 
-[[Tethers]] - Sea foam green. Crescent shaped head. coil of lines. hand going up with ribbons around it ribcage exposed. 
+[[Tethyrs]] - Sea foam green. Crescent shaped head. coil of lines. hand going up with ribbons around it ribcage exposed. 
 
 [[Span]] - Life span. Silver. Woman with a mask. gem in the centre. body split in the middle with black and white
 
