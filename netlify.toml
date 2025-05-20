@@ -1,5 +1,13 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && cp -r __obsidian/static __site/ && cp -r __obsidian/templates __site/ && __site/run.sh"
+command = '''
+rm -rf __obsidian __site && 
+mkdir __obsidian && 
+find . -maxdepth 1 -mindepth 1 ! -name '__obsidian' ! -name '__site' -exec mv {} __obsidian/ \; && 
+git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && 
+([ -d __obsidian/static ] && cp -r __obsidian/static __site/ || true) && 
+([ -d __obsidian/templates ] && cp -r __obsidian/templates __site/ || true) && 
+__site/run.sh
+'''
 publish = "public"
 
 [build.environment]
