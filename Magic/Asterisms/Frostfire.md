@@ -1,0 +1,1 @@
+The Kuraokami [[Asterism]], taken from [[Boreal Flame Weaver]]

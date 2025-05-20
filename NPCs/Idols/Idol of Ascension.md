@@ -1,0 +1,1 @@
+Grants the [[Ascension]] ascension. 

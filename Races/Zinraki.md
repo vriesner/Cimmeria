@@ -1,0 +1,1 @@
+Zinraki live off [[Malevolence]]. They are [[Errants]]. [[Xir’vathis]] is their home directly below Rygoval. Race very high in [[Resonance]].

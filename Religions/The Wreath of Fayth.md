@@ -1,0 +1,1 @@
+Shepherds [[Souls]] through rivers and leads them to the [[Blank]]. Can be used to make [[Deals]].

@@ -1,0 +1,1 @@
+A book. One of the rites of one of the [[Three Kings]]. Can steal transference. 
