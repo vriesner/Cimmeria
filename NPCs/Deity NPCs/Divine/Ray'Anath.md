@@ -1,3 +1,3 @@
 *The Beastheart*
-![[Pasted image 20250520200735.png]]
+![[Ray'Anath.png]]
 A [[Kynikos Khoran]] [[Divine]].

@@ -20,33 +20,19 @@
             }
           },
           {
-            "id": "6880186d153554e5",
+            "id": "33059b17cc9eddca",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted image 20250520200735.png"
+                "file": "Images/AscendedShoroh.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250520200735"
-            }
-          },
-          {
-            "id": "33059b17cc9eddca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Diamanda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diamanda"
+              "title": "AscendedShoroh"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Relics of Veritan.md",
+                "file": "Images/AscendedShoroh.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relics of Veritan"
+              "title": "Outgoing links from AscendedShoroh"
             }
           },
           {
@@ -165,18 +151,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Relics of Veritan.md"
+                "file": "Images/AscendedShoroh.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relics of Veritan"
+              "title": "Outline of AscendedShoroh"
+            }
+          },
+          {
+            "id": "f82cd114962ca371",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,18 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33059b17cc9eddca",
+  "active": "b690cace73f66943",
   "lastOpenFiles": [
-    "Images/Pasted image 20250520200026.png",
+    "Images/Essolus.png",
+    "NPCs/Deity NPCs/Divine/Essolus.md",
+    "Images/Sylvana.png",
+    "NPCs/Deity NPCs/Divine/Sylvana.md",
+    "Images/Pasted image 20250520195954.png",
+    "Images/Datlin.png",
+    "Images/Axesis.png",
+    "Images/Ray'Anath.png",
+    "NPCs/Deity NPCs/Divine/Ray'Anath.md",
+    "Locations/Cimmeria.md",
+    "Locations/Aellorium.md",
+    "NPCs/Vitruvio Char.md",
+    "NPCs/Diamanda.md",
+    "Images/Erbium.png",
     "Untitled.canvas",
     "'The Board'.canvas",
-    "Locations/Aellorium.md",
     "NPCs/Deity NPCs/Idols/Idol of Ascension.md",
-    "Images/Pasted image 20250520200735.png",
     "Images/Tybrus.png",
-    "Images/Erbium.png",
     "NPCs/Deity NPCs/Divine/Odrass.md",
-    "Locations/Cimmeria.md",
     "Magic/The Laws of Manifestation.md",
     "Magic/Twin Ritual.md",
     "Magic/Resonance.md",
@@ -210,22 +218,13 @@
     "Magic/Eidolon.md",
     "Magic/Deals.md",
     "NPCs/Deity NPCs/Divine/Tybrus.md",
-    "NPCs/Deity NPCs/Divine/Sylvana.md",
-    "NPCs/Deity NPCs/Divine/Ray'Anath.md",
     "NPCs/Deity NPCs/Divine/Ranas.md",
     "NPCs/Deity NPCs/Divine/Lobos Zul.md",
-    "NPCs/Deity NPCs/Divine/Essolus.md",
     "NPCs/Deity NPCs/Divine/Erbium.md",
     "NPCs/Deity NPCs/Divine/Datlin.md",
     "NPCs/Deity NPCs/Divine/Axesis.md",
     "Organizations/Council of Archons.md",
     "PCs/Campaign 1/Shoroh Morningstar.md",
-    "PCs/Campaign 1/Rokuda Rinyuaru.md",
-    "PCs/Campaign 1/Fialova Zinar’Dottir.md",
-    "Images/Pasted image 20250520200411.png",
-    "Images/Pasted image 20250520200256.png",
-    "Images/Pasted image 20250520195821.png",
-    "Images/Pasted image 20250520195954.png",
     "NPCs/C1 NPCs",
     "NPCs/Deity NPCs",
     "NPCs/Deity NPCs/Eldritch",
