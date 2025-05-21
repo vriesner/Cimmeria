@@ -2,7 +2,7 @@
 Simko
 Balaban
 Ajdajin
-Perhaps [[The Everpresent Mother]]
+Perhaps [[Vaena]]
 
 Might be associated with the [[Mists]]
 Might all be considered [[Idols]]

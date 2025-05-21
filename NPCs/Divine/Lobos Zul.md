@@ -1,3 +1,0 @@
-Child of [[Divine]]. 
-
-#dead
