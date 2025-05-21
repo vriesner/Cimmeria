@@ -11,14 +11,12 @@
             "id": "089e31be85617bd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Kiaru Ranthar Alar.md",
-                "mode": "source",
-                "source": false
+                "file": "_Images/Kiaru.png"
               },
-              "icon": "lucide-file",
-              "title": "Kiaru Ranthar Alar"
+              "icon": "lucide-image",
+              "title": "Kiaru"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kiaru Ranthar Alar.md",
+                "file": "_Images/Kiaru.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kiaru Ranthar Alar"
+              "title": "Backlinks for Kiaru"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kiaru Ranthar Alar.md",
+                "file": "_Images/Kiaru.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kiaru Ranthar Alar"
+              "title": "Outgoing links from Kiaru"
             }
           },
           {
@@ -128,7 +126,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,16 +155,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,14 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "089e31be85617bd1",
+  "active": "b690cace73f66943",
   "lastOpenFiles": [
-    "Pasted image 20250521105038.png",
-    "Abner Simon.md",
-    "Kiaru Ranthar Alar.md",
+    "NPCs/Jarcosian/Abner Simon.md",
+    "_Images/Kiaru.png",
+    "NPCs/Eryndar/Esta Yin'Faren.md",
+    "NPCs/Jarcosian/Kiaru Ranthar Alar.md",
+    "NPCs/Eryndar",
     "Kiaru.md",
     "Organizations/Jarcosian Senate/Paragonic Covenant.md",
-    "Esta Yin'Faren.md",
     "NPCs/Jarcosian/Vennik Steele.md",
     "NPCs/Marii/Serath Rhae.md",
     "_Images/Serath Rhae.png",
@@ -223,8 +224,6 @@
     "_Images/Caelix.png",
     "_Images/Kronas.png",
     "_Images/Leonidas.png",
-    "_Images/Ikeshia.png",
-    "Organizations/Remnants of Threx",
     "Untitled.canvas",
     "'The Board'.canvas",
     "Untitled 1.canvas",
