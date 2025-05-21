@@ -1,1 +1,1 @@
-Gained [[Animus]] through a dark [[Spirit]]
+Gained [[Animus]] through a [[Spirit]]?

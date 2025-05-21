@@ -1,0 +1,1 @@
+[[Kiaru Ranthar Alar]] bribed Abner? 

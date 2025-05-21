@@ -1,0 +1,1 @@
+Before the [[Exodus]], it used to be the city state of Jarcosia. Now it's the capital.
