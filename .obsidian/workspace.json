@@ -11,17 +11,42 @@
             "id": "5ed688daab6c80e2",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Erbium.png"
+              },
+              "icon": "lucide-image",
+              "title": "Erbium"
+            }
+          },
+          {
+            "id": "6880186d153554e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250520200735.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250520200735"
+            }
+          },
+          {
+            "id": "33059b17cc9eddca",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/The Laws of Manifestation.md",
+                "file": "NPCs/Diamanda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Laws of Manifestation"
+              "title": "Diamanda"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,8 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ed688daab6c80e2",
+  "active": "33059b17cc9eddca",
   "lastOpenFiles": [
+    "Images/Pasted image 20250520200026.png",
+    "Untitled.canvas",
+    "'The Board'.canvas",
+    "Locations/Aellorium.md",
+    "NPCs/Deity NPCs/Idols/Idol of Ascension.md",
+    "Images/Pasted image 20250520200735.png",
+    "Images/Tybrus.png",
+    "Images/Erbium.png",
+    "NPCs/Deity NPCs/Divine/Odrass.md",
+    "Locations/Cimmeria.md",
+    "Magic/The Laws of Manifestation.md",
     "Magic/Twin Ritual.md",
     "Magic/Resonance.md",
     "Magic/Malevolence.md",
@@ -186,20 +222,10 @@
     "PCs/Campaign 1/Shoroh Morningstar.md",
     "PCs/Campaign 1/Rokuda Rinyuaru.md",
     "PCs/Campaign 1/Fialova Zinar’Dottir.md",
-    "PCs/Campaign 3/Anïs Phrisora.md",
-    "PCs/Campaign 3/Caelix Velathir.md",
-    "PCs/Campaign 3/Cecilia Beleth Grim.md",
-    "PCs/Campaign 3/Kronas.md",
-    "PCs/Campaign 3/Leonidas.md",
-    "PCs/Campaign 3/Nesreen Roya Arefi.md",
-    "Pasted image 20250520200735.png",
-    "Pasted image 20250520200411.png",
-    "Pasted image 20250520200256.png",
-    "Pasted image 20250520200026.png",
-    "Pasted image 20250520195821.png",
-    "Pasted image 20250520195741.png",
-    "Pasted image 20250520194451.png",
-    "Pasted image 20250520195954.png",
+    "Images/Pasted image 20250520200411.png",
+    "Images/Pasted image 20250520200256.png",
+    "Images/Pasted image 20250520195821.png",
+    "Images/Pasted image 20250520195954.png",
     "NPCs/C1 NPCs",
     "NPCs/Deity NPCs",
     "NPCs/Deity NPCs/Eldritch",
@@ -210,9 +236,7 @@
     "New folder",
     "netlify.toml",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "PCs/Campaign 3",
-    "'The Board'.canvas",
     "Images/Fialova.jpg",
     "Images/Rokuda.png",
     "Campaign 1/Timeline/Timeline.canvas",
