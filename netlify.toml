@@ -16,7 +16,7 @@ LANDING_BUTTON = "To Cimmeria"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Hi Cody"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Cimmeria"
+LANDING_PAGE = "Locations/Cimmeria"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Vic's Mind Meld"
 PYTHON_VERSION = "3.8"
