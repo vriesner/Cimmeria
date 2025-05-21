@@ -5,4 +5,4 @@ Patriarch of Morningstar.
 Forsaken the Vomorre name.
 Born in Drathel.
 
-#republic #PCs #C1PCs
+#republic #PCs #C1PCs #dead 
