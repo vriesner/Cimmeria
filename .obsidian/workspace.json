@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "43eb2089d8295c48",
+        "id": "4996492067eb8ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "5ed688daab6c80e2",
+            "id": "96080cd0bff6c619",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Erbium.png"
+                "file": "Locations/Iskaraad/Jarcosia/Navirra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Erbium"
-            }
-          },
-          {
-            "id": "33059b17cc9eddca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/AscendedShoroh.png"
-              },
-              "icon": "lucide-image",
-              "title": "AscendedShoroh"
+              "icon": "lucide-file",
+              "title": "Navirra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4468c875ab43b95c",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Relics of Veritan.md",
+                "file": "Locations/Iskaraad/Jarcosia/Navirra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relics of Veritan"
+              "title": "Backlinks for Navirra"
             }
           },
           {
@@ -124,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/AscendedShoroh.png",
+                "file": "Locations/Iskaraad/Jarcosia/Navirra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AscendedShoroh"
+              "title": "Outgoing links from Navirra"
             }
           },
           {
@@ -166,16 +155,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,56 +177,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b690cace73f66943",
+  "active": "96080cd0bff6c619",
   "lastOpenFiles": [
-    "Images/Essolus.png",
+    "Locations/Iskaraad/Jarcosia/Liquid Archive.md",
+    "Locations/Iskaraad/Jarcosia/Navirra.md",
+    "Locations/Iskaraad/Jarcosia",
+    "Magic/Focus.md",
+    "_Images/Nesreen.png",
+    "_Images/Vennik Steele.png",
+    "Ikeshia.md",
+    "Vennik Steele.md",
+    "Organizations/Jarcosian Senate/Priory.md",
+    "Locations/Iskaraad/Untitled.md",
+    "PCs/Campaign 3/Caelix Velathir.md",
+    "Festival/Branding Trials.md",
+    "Locations/Iskaraad",
+    "Magic/Twin Ritual.md",
+    "Festival",
+    "Magic/Malevolence.md",
+    "Magic/Essentia.md",
+    "Magic/Asterisms/Asterism.md",
+    "Magic/Law of Manifestation",
+    "Pulse.md",
+    "PCs/Campaign 3/Anïs Phrisora.md",
+    "_Images/Anïs.png",
+    "PCs/Campaign 3/Cecilia Beleth Grim.md",
+    "_Images/Cecilia.png",
+    "_Images/Caelix.png",
+    "PCs/Campaign 3/Kronas.md",
+    "_Images/Kronas.png",
+    "PCs/Campaign 3/Nesreen Roya Arefi.md",
+    "PCs/Campaign 3/Leonidas.md",
+    "_Images/Leonidas.png",
+    "_Images/Ikeshia.png",
+    "_Images/Tybrus.png",
+    "_Images/Presage of Threx.png",
+    "Noella.md",
+    "Organizations/Remnants of Threx.md",
+    "Organizations/Remnants of Threx",
+    "Organizations/Jarcosian Senate/Polaris.md",
+    "Organizations/Jarcosian Senate/Priory",
+    "Organizations/Jarcosian Senate/Paragonic Covenant.md",
+    "Organizations/Jarcosian Senate",
     "NPCs/Deity NPCs/Divine/Essolus.md",
-    "Images/Sylvana.png",
     "NPCs/Deity NPCs/Divine/Sylvana.md",
-    "Images/Pasted image 20250520195954.png",
-    "Images/Datlin.png",
-    "Images/Axesis.png",
-    "Images/Ray'Anath.png",
-    "NPCs/Deity NPCs/Divine/Ray'Anath.md",
-    "Locations/Cimmeria.md",
-    "Locations/Aellorium.md",
-    "NPCs/Vitruvio Char.md",
-    "NPCs/Diamanda.md",
-    "Images/Erbium.png",
     "Untitled.canvas",
     "'The Board'.canvas",
-    "NPCs/Deity NPCs/Idols/Idol of Ascension.md",
-    "Images/Tybrus.png",
-    "NPCs/Deity NPCs/Divine/Odrass.md",
-    "Magic/The Laws of Manifestation.md",
-    "Magic/Twin Ritual.md",
-    "Magic/Resonance.md",
-    "Magic/Malevolence.md",
-    "Magic/Harmonist.md",
-    "Magic/Embodiment.md",
-    "Magic/Eidolon.md",
-    "Magic/Deals.md",
-    "NPCs/Deity NPCs/Divine/Tybrus.md",
-    "NPCs/Deity NPCs/Divine/Ranas.md",
-    "NPCs/Deity NPCs/Divine/Lobos Zul.md",
-    "NPCs/Deity NPCs/Divine/Erbium.md",
-    "NPCs/Deity NPCs/Divine/Datlin.md",
-    "NPCs/Deity NPCs/Divine/Axesis.md",
-    "Organizations/Council of Archons.md",
-    "PCs/Campaign 1/Shoroh Morningstar.md",
     "NPCs/C1 NPCs",
     "NPCs/Deity NPCs",
     "NPCs/Deity NPCs/Eldritch",
-    "static/js/graph.js",
-    "static/js",
-    "static/New folder",
-    "static",
-    "New folder",
-    "netlify.toml",
     "Untitled 1.canvas",
-    "PCs/Campaign 3",
-    "Images/Fialova.jpg",
-    "Images/Rokuda.png",
     "Campaign 1/Timeline/Timeline.canvas",
     "Untitled 2.canvas"
   ]

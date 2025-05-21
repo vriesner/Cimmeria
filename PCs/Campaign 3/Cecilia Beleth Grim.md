@@ -1,4 +1,5 @@
 Adopted. Father is a scholar in Northern Oenata. Older brother is Devan. One sibling Jyorashan. One sibling Warden. Another Devan. Little human sister.
+![[Cecilia.png]]
 
 |           | Campaign 3  |
 | --------- | ----------- |

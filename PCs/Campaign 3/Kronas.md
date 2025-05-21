@@ -1,4 +1,5 @@
-Has the [[Twin Ritual]] cast on his eye? Has a twin called Krius who lives inside her.
+Has the [[Twin Ritual]] cast on her eye? Has a twin called Krius who lives inside her.
+![[Kronas.png]]
 
 |           | Campaign 3                 |
 | --------- | -------------------------- |

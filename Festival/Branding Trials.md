@@ -1,0 +1,1 @@
+A set of trials built to fight the [[Pulse]]. The Branded gain access to the Jarosian [[Liquid Archive]] as well as diplomatic immunity.
