@@ -1,4 +1,5 @@
 *Defender of Freedom*
+![[Fialova.jpg]]
 Part of [[The Celeste Reflection Cult]].
 Worships [[Zinar]]
 

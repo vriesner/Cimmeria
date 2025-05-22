@@ -11,12 +11,14 @@
             "id": "089e31be85617bd1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_Images/Kiaru.png"
+                "file": "Khelt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kiaru"
+              "icon": "lucide-file",
+              "title": "Khelt"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/AscendedShoroh.png",
+                "file": "Khelt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AscendedShoroh"
+              "title": "Outline of Khelt"
             }
           },
           {
@@ -160,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,37 +180,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f82cd114962ca371",
+  "active": "089e31be85617bd1",
   "lastOpenFiles": [
-    "NPCs/Jarcosian/Abner Simon.md",
-    "_Images/Kiaru.png",
-    "NPCs/Eryndar/Esta Yin'Faren.md",
-    "NPCs/Jarcosian/Kiaru Ranthar Alar.md",
-    "NPCs/Eryndar",
-    "Kiaru.md",
-    "Organizations/Jarcosian Senate/Paragonic Covenant.md",
-    "NPCs/Jarcosian/Vennik Steele.md",
     "NPCs/Marii/Serath Rhae.md",
+    "Thane.md",
+    "Khelt.md",
+    "Dusk Market.md",
+    "Locations/Sea of Endless Dance.md",
+    "Depths of Endless Dance.md",
+    "Magic/Focus.md",
+    "Legion.png",
+    "NPCs/Legion.md",
+    "Organizations/Remnants of Threx.md",
+    "Locations/Iskaraad/Jarcosia/Jarcosia.md",
+    "NPCs/Ikeshia.md",
+    "NPCs/Vitruvio Char.md",
+    "NPCs/Deity NPCs/Eldritch/Vaena.md",
+    "NPCs/Deity NPCs/Star-Fallen/Dalaminae.md",
+    "NPCs/Deity NPCs/Star-Fallen/Admonition.md",
+    "NPCs/Deity NPCs/Spirit/The Faustian.md",
+    "NPCs/Deity NPCs/Spirit/Moth Visnu.md",
+    "NPCs/Deity NPCs/Idols/Aeon.md",
+    "NPCs/Deity NPCs/Idols/Idol of Ascension.md",
+    "NPCs/Ascended/Crainn Ixora.md",
+    "NPCs/Ascended/Esdrian Damascus.md",
+    "NPCs/Ascended/Zaleska Kaatha.md",
+    "PCs/Campaign 1/Fialova Zinar’Dottir.md",
+    "_Images/Fialova.jpg",
+    "PCs/Campaign 3/Nesreen Roya Arefi.md",
+    "Organizations/Jarcosian Senate/Polaris.md",
+    "Organizations/Jarcosian Senate/Priory.md",
+    "_Images/Kiaru.png",
+    "NPCs/Eryndar",
     "_Images/Serath Rhae.png",
     "_Images/The Severant.png",
-    "PCs/Campaign 1/Rokuda Rinyuaru.md",
-    "PCs/Campaign 1/Shoroh Morningstar.md",
-    "PCs/Campaign 1/Fialova Zinar’Dottir.md",
-    "PCs/Campaign 1/Evelyn Gesamane.md",
-    "NPCs/Kismet/Rome Navi.md",
-    "NPCs/Kismet/Arata Endo.md",
-    "NPCs/Anomai/Noella.md",
-    "NPCs/Deity NPCs/Divine/Tybrus.md",
-    "NPCs/Deity NPCs/Divine/Sylvana.md",
-    "NPCs/Deity NPCs/Divine/Ray'Anath.md",
-    "NPCs/Deity NPCs/Divine/Odrass.md",
-    "NPCs/Deity NPCs/Divine/Lobos Zul.md",
-    "NPCs/Deity NPCs/Divine/Kameko.md",
-    "NPCs/Deity NPCs/Divine/Essolus.md",
-    "NPCs/Deity NPCs/Divine/Datlin.md",
-    "NPCs/Deity NPCs/Divine/Axesis.md",
-    "NPCs/C1 NPCs/Ascended/Crainn Ixora.md",
-    "Events/Branding Trials.md",
     "NPCs/Marii",
     "Events",
     "NPCs/Jarcosian",
@@ -222,8 +228,6 @@
     "_Images/Anïs.png",
     "_Images/Cecilia.png",
     "_Images/Caelix.png",
-    "_Images/Kronas.png",
-    "_Images/Leonidas.png",
     "Untitled.canvas",
     "'The Board'.canvas",
     "Untitled 1.canvas",

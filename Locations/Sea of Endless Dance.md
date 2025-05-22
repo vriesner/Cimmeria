@@ -1,0 +1,1 @@
+Has never ceasing tides. As of Vikus 1st, 732 AEC, it is unnaturally still. There is a trill going over the sea.

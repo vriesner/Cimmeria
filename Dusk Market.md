@@ -1,0 +1,1 @@
+[[Jarcosia]]'s blackmarket. Supposedly the dagger that killed the [[Thane]] [[Khelt]]
