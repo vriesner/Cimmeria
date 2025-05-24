@@ -1,0 +1,1 @@
+Main trade route on [[The Winds of Wealth]] that goes from Thalvorys to Iskaraad. The Nalitan Shores to Jarcosia.

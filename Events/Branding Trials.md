@@ -1,1 +1,2 @@
 A set of trials built to fight the [[Pulse]]. The Branded gain access to the Jarosian [[Liquid Archive]] as well as diplomatic immunity.
+Present factions: Zaruina (Khorans), Rygoval (Anomai), The Hyperion Oath (Kismet/Tareskan/Xomedan), The Fang Shores (Human?), The Nephilim of The Cairn (Ryvarran), and Dhegoval (Jyo’Rasha).

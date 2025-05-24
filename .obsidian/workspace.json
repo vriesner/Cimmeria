@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b906eac9d4a23c3c",
+        "id": "395e877789c255f9",
         "type": "tabs",
         "children": [
           {
-            "id": "089e31be85617bd1",
+            "id": "f08e5abf2c63116a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Campaign 3/Cecilia Beleth Grim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cecilia Beleth Grim"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,36 +179,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "089e31be85617bd1",
+  "active": "f08e5abf2c63116a",
   "lastOpenFiles": [
-    "Khelt.md",
-    "NPCs/Marii/Serath Rhae.md",
-    "Thane.md",
-    "Dusk Market.md",
-    "Locations/Sea of Endless Dance.md",
-    "Depths of Endless Dance.md",
-    "Magic/Focus.md",
-    "Legion.png",
-    "NPCs/Legion.md",
-    "Organizations/Remnants of Threx.md",
-    "Locations/Iskaraad/Jarcosia/Jarcosia.md",
-    "NPCs/Ikeshia.md",
-    "NPCs/Vitruvio Char.md",
-    "NPCs/Deity NPCs/Eldritch/Vaena.md",
-    "NPCs/Deity NPCs/Star-Fallen/Dalaminae.md",
+    "Events/Branding Trials.md",
+    "Locations/Guildrift Belt.md",
+    "Organizations/Houses/House Asphodel.md",
+    "Organizations/Houses/House Vasia.md",
+    "Organizations/Houses/House Roxas.md",
+    "Organizations/Houses/House Rao.md",
+    "Organizations/Houses/House Navi.md",
+    "Organizations/Houses/House Morningstar.md",
+    "Organizations/Houses/House Kuraokami.md",
+    "Organizations/Houses/House Kaatha.md",
+    "Organizations/Houses/House Ixora.md",
+    "Organizations/Houses/House Gesamane.md",
     "NPCs/Deity NPCs/Star-Fallen/Admonition.md",
-    "NPCs/Deity NPCs/Spirit/The Faustian.md",
-    "NPCs/Deity NPCs/Spirit/Moth Visnu.md",
-    "NPCs/Deity NPCs/Idols/Aeon.md",
-    "NPCs/Deity NPCs/Idols/Idol of Ascension.md",
-    "NPCs/Ascended/Crainn Ixora.md",
-    "NPCs/Ascended/Esdrian Damascus.md",
-    "NPCs/Ascended/Zaleska Kaatha.md",
-    "PCs/Campaign 1/Fialova Zinar’Dottir.md",
+    "Locations/Cimmeria.md",
+    "Locations/Sea of Endless Dance.md",
+    "Locations/Aellorium.md",
+    "Magic/Focus.md",
+    "Magic/Essentia.md",
+    "NPCs/Anomai/Deimos Godfreid.md",
+    "Locations/Iskaraad/Jarcosia/Navirra.md",
+    "Titles/Thane.md",
+    "NPCs/Errant",
+    "NPCs/Marii/Serath Rhae.md",
+    "NPCs/Errant/Khelt.md",
+    "Locations/Iskaraad/Jarcosia/Dusk Market.md",
+    "Depths of Endless Dance.md",
+    "_Images/Legion.png",
+    "NPCs/Legion.md",
     "_Images/Fialova.jpg",
-    "PCs/Campaign 3/Nesreen Roya Arefi.md",
-    "Organizations/Jarcosian Senate/Polaris.md",
-    "Organizations/Jarcosian Senate/Priory.md",
     "_Images/Kiaru.png",
     "NPCs/Eryndar",
     "_Images/Serath Rhae.png",
@@ -219,7 +224,6 @@
     "_Images/Vennik Steele.png",
     "Locations/Iskaraad",
     "Festival",
-    "Magic/Law of Manifestation",
     "_Images/Anïs.png",
     "_Images/Cecilia.png",
     "_Images/Caelix.png",
