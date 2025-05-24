@@ -1,8 +1,6 @@
-*The Second Godking || Idol of Peace 
-Arkay of the Republic*
-The [[Wheelbearer]].
-Patriarch of Morningstar. 
-Forsaken the Vomorre name.
-Born in Drathel.
+*The Second Godking, [[Wheelbearer]], Patriarch of Morningstar
+
+Formerly known as: *Emperor, Arkay of the Republic, Idol of Peace*
+Forsaken the Vomorre name. Born in Drathel.
 
 #republic #PCs #C1PCs #dead 
