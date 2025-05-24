@@ -1,0 +1,1 @@
+descendants of [[Chaos Born]] monsters made by [[Gorvhaith]].

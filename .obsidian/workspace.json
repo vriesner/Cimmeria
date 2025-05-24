@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "395e877789c255f9",
+        "id": "c1a2c4d2be146a19",
         "type": "tabs",
         "children": [
           {
-            "id": "f08e5abf2c63116a",
+            "id": "681157212f1c0af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Campaign 3/Cecilia Beleth Grim.md",
+                "file": "Gorvhaith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cecilia Beleth Grim"
+              "title": "Gorvhaith"
             }
           }
         ]
@@ -179,8 +179,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f08e5abf2c63116a",
+  "active": "681157212f1c0af9",
   "lastOpenFiles": [
+    "Races/Tareskan.md",
+    "Gorvhaith.md",
+    "Races/Xomedan.md",
+    "Races/Xin'Raki.md",
+    "Races/Devan.md",
+    "NPCs/Deity NPCs/Spirit/Moth-Visnu.md",
+    "Races/Kismet.md",
+    "Races/Jarcosian.md",
+    "Magic/Focus.md",
+    "Races/Marii.md",
+    "Races/Vantari.md",
+    "Races/Verdani Khoran.md",
+    "Races/Ryvarran.md",
+    "Races/Anomai.md",
+    "Exodus.md",
+    "NPCs/Deity NPCs/Essentia/Great Forge.md",
+    "Religions/The Wreath of Fayth.md",
+    "PCs/Campaign 3/Cecilia Beleth Grim.md",
     "Events/Branding Trials.md",
     "Locations/Guildrift Belt.md",
     "Organizations/Houses/House Asphodel.md",
@@ -189,26 +207,8 @@
     "Organizations/Houses/House Rao.md",
     "Organizations/Houses/House Navi.md",
     "Organizations/Houses/House Morningstar.md",
-    "Organizations/Houses/House Kuraokami.md",
-    "Organizations/Houses/House Kaatha.md",
-    "Organizations/Houses/House Ixora.md",
-    "Organizations/Houses/House Gesamane.md",
-    "NPCs/Deity NPCs/Star-Fallen/Admonition.md",
-    "Locations/Cimmeria.md",
-    "Locations/Sea of Endless Dance.md",
-    "Locations/Aellorium.md",
-    "Magic/Focus.md",
-    "Magic/Essentia.md",
-    "NPCs/Anomai/Deimos Godfreid.md",
-    "Locations/Iskaraad/Jarcosia/Navirra.md",
-    "Titles/Thane.md",
     "NPCs/Errant",
-    "NPCs/Marii/Serath Rhae.md",
-    "NPCs/Errant/Khelt.md",
-    "Locations/Iskaraad/Jarcosia/Dusk Market.md",
-    "Depths of Endless Dance.md",
     "_Images/Legion.png",
-    "NPCs/Legion.md",
     "_Images/Fialova.jpg",
     "_Images/Kiaru.png",
     "NPCs/Eryndar",
