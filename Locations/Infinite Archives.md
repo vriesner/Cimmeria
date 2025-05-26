@@ -1,0 +1,1 @@
+Originally constructed on [[Iskaraad]], the Infinite Archives was the home of all knowledge. It was destroyed and separated during the [[Era of Apostasy]] after [[Xurasil]] was killed.
