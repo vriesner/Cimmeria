@@ -1,4 +1,4 @@
-Attacked [[Jarcosia]] during The [[Branding Trials]] and invaded The [[Liquid Archive]].
+Worship [[Threx]]. Attacked [[Jarcosia]] during The [[Branding Trials]] and invaded The [[Liquid Archive]].
 
 Iconoclast of Threx
 ![[Iconoclast of Threx.png]]

@@ -7,6 +7,7 @@
 | Height    | 5'10"       |
 | Gender    | Male        |
 | Pronouns  | He          |
+| Status    | Alive       |
 | Born      | ?           |
 | Played By | Brad        |
 #PCs

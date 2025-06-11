@@ -7,6 +7,7 @@
 | Height    | 5'6"                         |
 | Gender    | Female                       |
 | Pronouns  | She                          |
+| Status    | Alive                        |
 | Born      | The Grove, Zaruina, Veladrin |
 | Played By | Vic                          |
 #PCs

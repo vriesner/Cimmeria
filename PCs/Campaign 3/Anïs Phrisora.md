@@ -7,6 +7,7 @@
 | Height    |              |
 | Gender    | Female       |
 | Pronouns  | She          |
+| Status    | Alive        |
 | Born      |              |
 | Played By | Gary         |
 #PCs

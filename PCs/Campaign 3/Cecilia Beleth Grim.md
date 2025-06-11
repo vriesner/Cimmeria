@@ -10,6 +10,7 @@ Session 4: A massive being in the [[Blank]] reaches out to her. Perhaps the Blan
 | Height    |             |
 | Gender    | Female      |
 | Pronouns  | She         |
+| Status    | Alive       |
 | Born      | ?           |
 | Played By | David       |
 #PCs

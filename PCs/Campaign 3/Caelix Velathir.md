@@ -7,6 +7,7 @@
 | Height    |                                     |
 | Gender    | Non-binary                          |
 | Pronouns  | They                                |
+| Status    | Alive                               |
 | Born      | Navirra, Navirran Province Iskaraad |
 | Played By | A.J.                                |
 #PCs
