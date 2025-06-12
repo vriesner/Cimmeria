@@ -9,19 +9,28 @@
 		{"id":"ca8ddc3bce621670","type":"file","file":"PCs/Campaign 3/Kronas.md","x":3199,"y":-163,"width":400,"height":400},
 		{"id":"c4967c3cbdff982b","type":"file","file":"Magic/Twin Ritual.md","x":3880,"y":-163,"width":400,"height":400},
 		{"id":"e91c1b89384d2fb0","type":"file","file":"NPCs/Ikeshia.md","x":1320,"y":-520,"width":400,"height":400},
-		{"id":"b39f8d56506df411","x":2004,"y":-680,"width":113,"height":53,"type":"text","text":"Visions"},
-		{"id":"14a8672d07aab3e2","x":3199,"y":-720,"width":400,"height":400,"type":"file","file":"PCs/Campaign 3/Cecilia Beleth Grim.md"},
-		{"id":"ef03529f29c890c8","x":3880,"y":-720,"width":400,"height":400,"type":"file","file":"NPCs/Deity NPCs/Essentia/Blank.md"}
+		{"id":"b39f8d56506df411","type":"text","text":"Visions","x":2004,"y":-680,"width":113,"height":53},
+		{"id":"14a8672d07aab3e2","type":"file","file":"PCs/Campaign 3/Cecilia Beleth Grim.md","x":3199,"y":-720,"width":400,"height":400},
+		{"id":"ef03529f29c890c8","type":"file","file":"NPCs/Deity NPCs/Essentia/Blank.md","x":3880,"y":-720,"width":400,"height":400},
+		{"id":"73574c28cfccc266","type":"file","file":"Creatures/Day Feaster.md","x":1860,"y":120,"width":400,"height":400},
+		{"id":"ed629c6d1b10d3df","type":"file","file":"NPCs/Legion.md","x":640,"y":-520,"width":400,"height":400},
+		{"id":"04d992a0f217cc89","type":"file","file":"PCs/Campaign 3/Leonidas.md","x":640,"y":-1152,"width":400,"height":400},
+		{"id":"4d28daf6498bd371","type":"file","file":"Organizations/Jarcosian Senate/Paragonic Covenant.md","x":2580,"y":-520,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"05615f7a82a1938f","fromNode":"352936cf7b626238","fromSide":"right","toNode":"fdf37018035120b4","toSide":"left","label":"Can control?"},
 		{"id":"371de0b6b5d9e66c","fromNode":"352936cf7b626238","fromSide":"left","toNode":"081c8e7d3142e056","toSide":"right","label":"Worship"},
 		{"id":"23bb04091c19523d","fromNode":"fdf37018035120b4","fromSide":"bottom","toNode":"b327701bb760c57e","toSide":"top","label":"Attacked bc of Zyrn Rune"},
 		{"id":"1f97bd27fbb9f680","fromNode":"352936cf7b626238","fromSide":"bottom","toNode":"84ff89c2daab37e2","toSide":"top","label":"Enslaved"},
-		{"id":"5fe906259379a4e8","fromNode":"c4967c3cbdff982b","fromSide":"left","toNode":"ca8ddc3bce621670","toSide":"right","label":" Cast on her eye"},
+		{"id":"5fe906259379a4e8","fromNode":"c4967c3cbdff982b","fromSide":"left","toNode":"ca8ddc3bce621670","toSide":"right","label":"Eye"},
 		{"id":"040285d5e985aa81","fromNode":"84ff89c2daab37e2","fromSide":"bottom","toNode":"b39f8d56506df411","toSide":"top"},
 		{"id":"48b086afd6bda531","fromNode":"b39f8d56506df411","fromSide":"bottom","toNode":"82b48078f2f266bd","toSide":"top","label":"Heard of"},
-		{"id":"6772692a4797c32b","fromNode":"b39f8d56506df411","fromSide":"left","toNode":"e91c1b89384d2fb0","toSide":"top","label":"Embodied"},
-		{"id":"02e4c917d9b2cf06","fromNode":"14a8672d07aab3e2","fromSide":"right","toNode":"ef03529f29c890c8","toSide":"left","fromEnd":"arrow"}
+		{"id":"02e4c917d9b2cf06","fromNode":"14a8672d07aab3e2","fromSide":"right","toNode":"ef03529f29c890c8","toSide":"left","fromEnd":"arrow"},
+		{"id":"85e32a85cae6c848","fromNode":"73574c28cfccc266","fromSide":"top","toNode":"82b48078f2f266bd","toSide":"bottom","label":"Don't like?"},
+		{"id":"5d0a5300ae7974be","fromNode":"e91c1b89384d2fb0","fromSide":"bottom","toNode":"73574c28cfccc266","toSide":"left","label":"Running from?"},
+		{"id":"c3c1d54a343222d0","fromNode":"ed629c6d1b10d3df","fromSide":"right","toNode":"e91c1b89384d2fb0","toSide":"left","fromEnd":"arrow","label":"Looking for"},
+		{"id":"b02c95be2f1abdf2","fromNode":"04d992a0f217cc89","fromSide":"bottom","toNode":"ed629c6d1b10d3df","toSide":"top","label":"Embodied"},
+		{"id":"5f6561623440825d","fromNode":"84ff89c2daab37e2","fromSide":"left","toNode":"e91c1b89384d2fb0","toSide":"top","fromEnd":"arrow","label":"Embodied"},
+		{"id":"fa8a035b685e2537","fromNode":"b327701bb760c57e","fromSide":"bottom","toNode":"4d28daf6498bd371","toSide":"top","label":"Brother works for"}
 	]
 }
