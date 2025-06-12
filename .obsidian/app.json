@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "_Images/",
-    "README"
+    "README",
+    "Tier List"
   ]
 }
