@@ -37,9 +37,23 @@
               "icon": "lucide-file",
               "title": "Essentia"
             }
+          },
+          {
+            "id": "2e9fd544e1a7216b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +211,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e96acaa5bc8923c",
+  "active": "2e9fd544e1a7216b",
   "lastOpenFiles": [
+    "Magic/Essentia.md",
+    "conflict-files-obsidian-git.md",
+    "_Images/Therinoth.png",
+    "NPCs/Deity NPCs/Divine/Threx.md",
+    "Creatures/Rynik.md",
+    "Creatures/Nulthera.md",
+    "Creatures/Day Feaster.md",
+    "Creatures/Atrophic.md",
+    "'The Board'.canvas",
     "NPCs/Deity NPCs/Essentia/Tethyrs.md",
     "Tier List.md",
     "Untitled.canvas",
     "NPCs/Deity NPCs/Divine/Lobos Zul.md",
-    "'The Board'.canvas",
     "NPCs/Deity NPCs/Divine/Axesis.md",
     "NPCs/Deity NPCs/Spirit/Vengeance.md",
     "Races/Xin'Raki.md",
@@ -220,13 +242,6 @@
     "Races/Human.md",
     "Races/Eryndar.md",
     "NPCs/Deity NPCs/Star-Fallen/Dalaminae.md",
-    "Races/Errant.md",
-    "Races/Divine.md",
-    "Races/Anomai.md",
-    "Races/Devan.md",
-    "Races/C'thari.md",
-    "Races/Aoxenian.md",
-    "Locations/Veladryn/Aleria.md",
     "Locations/Thalvorys",
     "_Images/Skane.png",
     "NPCs/Kynikos",
@@ -246,7 +261,6 @@
     "_Images/Nesreen.png",
     "_Images/Vennik Steele.png",
     "_Images/Anïs.png",
-    "_Images/Cecilia.png",
     "Untitled 1.canvas",
     "Campaign 1/Timeline/Timeline.canvas",
     "Untitled 2.canvas"

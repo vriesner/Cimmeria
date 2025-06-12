@@ -1,0 +1,1 @@
+A semi-sentient living ore that binds symbiotically to a [[Marii]]'s flesh.
