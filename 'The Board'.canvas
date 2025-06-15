@@ -6,16 +6,24 @@
 		{"id":"b327701bb760c57e","type":"file","file":"PCs/Campaign 3/Caelix Velathir.md","x":2580,"y":-1160,"width":400,"height":400},
 		{"id":"84ff89c2daab37e2","type":"file","file":"PCs/Campaign 3/Nesreen Roya Arefi.md","x":1860,"y":-1152,"width":400,"height":400},
 		{"id":"82b48078f2f266bd","type":"file","file":"NPCs/Deity NPCs/Divine/Sylvana.md","x":1860,"y":-520,"width":400,"height":400},
-		{"id":"ca8ddc3bce621670","type":"file","file":"PCs/Campaign 3/Kronas.md","x":3199,"y":-163,"width":400,"height":400},
-		{"id":"c4967c3cbdff982b","type":"file","file":"Magic/Twin Ritual.md","x":3880,"y":-163,"width":400,"height":400},
-		{"id":"e91c1b89384d2fb0","type":"file","file":"NPCs/Ikeshia.md","x":1320,"y":-520,"width":400,"height":400},
-		{"id":"b39f8d56506df411","type":"text","text":"Visions","x":2004,"y":-680,"width":113,"height":53},
-		{"id":"14a8672d07aab3e2","type":"file","file":"PCs/Campaign 3/Cecilia Beleth Grim.md","x":3199,"y":-720,"width":400,"height":400},
-		{"id":"ef03529f29c890c8","type":"file","file":"NPCs/Deity NPCs/Essentia/Blank.md","x":3880,"y":-720,"width":400,"height":400},
 		{"id":"73574c28cfccc266","type":"file","file":"Creatures/Day Feaster.md","x":1860,"y":120,"width":400,"height":400},
-		{"id":"ed629c6d1b10d3df","type":"file","file":"NPCs/Legion.md","x":640,"y":-520,"width":400,"height":400},
-		{"id":"04d992a0f217cc89","type":"file","file":"PCs/Campaign 3/Leonidas.md","x":640,"y":-1152,"width":400,"height":400},
-		{"id":"4d28daf6498bd371","type":"file","file":"Organizations/Jarcosian Senate/Paragonic Covenant.md","x":2580,"y":-520,"width":400,"height":400}
+		{"id":"4d28daf6498bd371","type":"file","file":"Organizations/Jarcosian Senate/Paragonic Covenant.md","x":2580,"y":-520,"width":400,"height":400},
+		{"id":"a8bdf74b889146a6","type":"text","text":"Blood spikes and knives found in bodies, strange rituals and sightings of a scarred and disfigured FIGURE in Thalvorys ","x":2260,"y":-1980,"width":327,"height":135},
+		{"id":"b39f8d56506df411","type":"text","text":"Visions","x":1992,"y":-680,"width":136,"height":50},
+		{"id":"14a8672d07aab3e2","type":"file","file":"PCs/Campaign 3/Cecilia Beleth Grim.md","x":2580,"y":120,"width":400,"height":400},
+		{"id":"ef03529f29c890c8","type":"file","file":"NPCs/Deity NPCs/Essentia/Blank.md","x":3261,"y":120,"width":400,"height":400},
+		{"id":"ca8ddc3bce621670","type":"file","file":"PCs/Campaign 3/Kronas.md","x":2299,"y":960,"width":400,"height":400},
+		{"id":"c4967c3cbdff982b","type":"file","file":"Magic/Twin Ritual.md","x":2980,"y":960,"width":400,"height":400},
+		{"id":"ed629c6d1b10d3df","type":"file","file":"NPCs/Legion.md","x":520,"y":-520,"width":400,"height":400},
+		{"id":"e91c1b89384d2fb0","type":"file","file":"NPCs/Ikeshia.md","x":1200,"y":-520,"width":400,"height":400},
+		{"id":"04d992a0f217cc89","type":"file","file":"PCs/Campaign 3/Leonidas.md","x":520,"y":-1152,"width":400,"height":400},
+		{"id":"938bb8f33a0db246","type":"file","file":"Magic/Stagnation.md","x":820,"y":-3360,"width":400,"height":400},
+		{"id":"1ab6be4a63098f7f","type":"file","file":"Magic/Law of Manifestation/Resonance.md","x":1460,"y":-3360,"width":400,"height":400},
+		{"id":"be1e5fb183cde724","type":"file","file":"Titles/Wheelbearer.md","x":820,"y":-2760,"width":400,"height":400},
+		{"id":"c407e0842c9b4a53","type":"file","file":"PCs/Campaign 1/Shoroh Morningstar.md","x":1460,"y":-2760,"width":400,"height":400},
+		{"id":"2219932ca15d4d79","type":"file","file":"PCs/Campaign 1/Fialova Zinar’Dottir.md","x":2138,"y":-2760,"width":400,"height":400},
+		{"id":"a0b8a71d70a92c74","type":"text","text":"- The First Paladin. But [[Cimmeria]] has been around for over 20k years. Reincarnated Paladin of the world? \n- Cimmeria has something to do with Crystals?","x":2758,"y":-2688,"width":351,"height":257},
+		{"id":"6eeb09707a79f488","type":"file","file":"NPCs/Marii/Serath Rhae.md","x":200,"y":-2760,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"05615f7a82a1938f","fromNode":"352936cf7b626238","fromSide":"right","toNode":"fdf37018035120b4","toSide":"left","label":"Can control?"},
@@ -31,6 +39,13 @@
 		{"id":"c3c1d54a343222d0","fromNode":"ed629c6d1b10d3df","fromSide":"right","toNode":"e91c1b89384d2fb0","toSide":"left","fromEnd":"arrow","label":"Looking for"},
 		{"id":"b02c95be2f1abdf2","fromNode":"04d992a0f217cc89","fromSide":"bottom","toNode":"ed629c6d1b10d3df","toSide":"top","label":"Embodied"},
 		{"id":"5f6561623440825d","fromNode":"84ff89c2daab37e2","fromSide":"left","toNode":"e91c1b89384d2fb0","toSide":"top","fromEnd":"arrow","label":"Embodied"},
-		{"id":"fa8a035b685e2537","fromNode":"b327701bb760c57e","fromSide":"bottom","toNode":"4d28daf6498bd371","toSide":"top","label":"Brother works for"}
+		{"id":"fa8a035b685e2537","fromNode":"b327701bb760c57e","fromSide":"bottom","toNode":"4d28daf6498bd371","toSide":"top","label":"Brother works for"},
+		{"id":"5444c87bfd17db44","fromNode":"2219932ca15d4d79","fromSide":"right","toNode":"a0b8a71d70a92c74","toSide":"left","toEnd":"none"},
+		{"id":"3b81df546539d442","fromNode":"14a8672d07aab3e2","fromSide":"left","toNode":"82b48078f2f266bd","toSide":"right"},
+		{"id":"5e3e95721e4a178f","fromNode":"938bb8f33a0db246","fromSide":"right","toNode":"1ab6be4a63098f7f","toSide":"left","label":"Negates"},
+		{"id":"4f145a47f69ab46a","fromNode":"be1e5fb183cde724","fromSide":"top","toNode":"938bb8f33a0db246","toSide":"bottom"},
+		{"id":"5dc885961780c1a9","fromNode":"c407e0842c9b4a53","fromSide":"left","toNode":"be1e5fb183cde724","toSide":"right","label":"was"},
+		{"id":"34c1d81aa272f2aa","fromNode":"2219932ca15d4d79","fromSide":"left","toNode":"c407e0842c9b4a53","toSide":"right","label":"killed"},
+		{"id":"30ae2cd4a55acc4b","fromNode":"6eeb09707a79f488","fromSide":"right","toNode":"be1e5fb183cde724","toSide":"left","label":"Might be"}
 	]
 }

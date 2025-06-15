@@ -1,3 +1,4 @@
 Created by the [[Aellorium]]?
-Governed by [[Idols]]
+Governed by [[Idols]]?
 The [[Blank]] is where all the [[Idols]] build their [[Realms]] using [[Shards]]
+Somehow connected to [[Crystals]]?

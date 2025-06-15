@@ -1,7 +1,9 @@
-Adopted. Father is a scholar in Northern Oenata. Older brother is Devan. One sibling Jyorashan. One sibling Warden. Another Devan. Little human sister.
+Adopted. Father is a scholar in Northern Oenata. 
 ![[Cecilia.png]]
 
-Session 4: A massive being in the [[Blank]] reaches out to her. Perhaps the Blank itself? Warns her of something (an army?). She draws a woman with long blonde hair and feathers.
+Older brother is Devan. One sibling Jyorashan. One sibling Warden. Another Devan. Little human sister.
+
+Session 4: A massive being in the [[Blank]] reaches out to her. Perhaps the Blank itself? Warns her of something (an army?). She draws a woman with long blonde hair and feathers, which might be [[Sylvana]].
 
 |           | Campaign 3  |
 | --------- | ----------- |

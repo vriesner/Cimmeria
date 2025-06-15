@@ -1,0 +1,1 @@
+Body of a [[Divine]] in the [[Blank]] that tried to feed on the essence of eternity. Arm reaching up to an endless sky? As the water hits it, the muscles stop reforming. 

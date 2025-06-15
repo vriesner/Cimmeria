@@ -1,0 +1,1 @@
+[[Vaena]] sought to stagnate Cimmeria to keep it in a place of stillness and unchanging
