@@ -1,5 +1,5 @@
-*Hand of Zinar, Wish of the World, First Paladin, Great Sacrificer, [[Final Champion]]*
-Formerly known as: *Defender of Freedom*
+*Hand of Zinar, Wish of the World, First Paladin, [[Final Champion]]*
+Formerly known as: *The Immor, Defender of Freedom*
 ![[Fialova.jpg]]
 Part of [[The Celeste Reflection Cult]]. Worships [[Zinar]].
 

@@ -1,3 +1,4 @@
+*Branded of Jarcosia*
 Has the [[Twin Ritual]] cast on her eye? Has a twin called Krius who lives inside her and sees out of her left eye.
 ![[Kronas.png]]
 

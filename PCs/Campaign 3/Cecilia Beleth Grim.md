@@ -1,3 +1,4 @@
+*Branded of Jarcosia*
 Adopted. Father is a scholar in Northern Oenata. 
 ![[Cecilia.png]]
 

@@ -1,4 +1,4 @@
-Created the Obake.
+Created the [[Obake]].
 Uses gold in his golems
 
 Chain Stride technique.

@@ -1,3 +1,4 @@
+*Crystal of the Coliseum, Branded of Jarcosia*
 ![[Leonidas.png]]
 
 |           | Campaign 3  |
