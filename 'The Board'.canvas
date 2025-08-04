@@ -1,8 +1,6 @@
 {
 	"nodes":[
 		{"id":"b327701bb760c57e","type":"file","file":"PCs/Campaign 3/Caelix Velathir.md","x":3215,"y":580,"width":400,"height":400},
-		{"id":"ca8ddc3bce621670","type":"file","file":"PCs/Campaign 3/Kronas.md","x":2934,"y":2700,"width":400,"height":400},
-		{"id":"c4967c3cbdff982b","type":"file","file":"Magic/Twin Ritual.md","x":3615,"y":2700,"width":400,"height":400},
 		{"id":"a8bdf74b889146a6","type":"text","text":"Blood spikes and knives found in bodies, strange rituals and sightings of a scarred and disfigured FIGURE in Thalvorys ","x":2895,"y":-240,"width":327,"height":135},
 		{"id":"081c8e7d3142e056","type":"file","file":"NPCs/Deity/Divine/Threx.md","x":1834,"y":-60,"width":400,"height":400},
 		{"id":"352936cf7b626238","type":"file","file":"Organizations/Remnants of Threx.md","x":2495,"y":-60,"width":400,"height":400},
@@ -18,7 +16,6 @@
 		{"id":"58f94eb81cd67f02","type":"file","file":"Magic/Stagnation.md","x":400,"y":3161,"width":400,"height":400},
 		{"id":"78d0677980400047","type":"file","file":"Titles/Wheelbearer.md","x":400,"y":3761,"width":400,"height":400},
 		{"id":"f2351d07ae0c7da2","type":"file","file":"Magic/Law of Manifestation/Resonance.md","x":1040,"y":3161,"width":400,"height":400},
-		{"id":"33f11615288c0707","type":"file","file":"Creatures/Day Feaster.md","x":400,"y":920,"width":400,"height":400},
 		{"id":"0a4da355b7b99144","type":"file","file":"NPCs/Legion.md","x":1120,"y":920,"width":400,"height":400},
 		{"id":"87c7780c396250f3","type":"file","file":"PCs/Campaign 3/Leonidas.md","x":1840,"y":600,"width":400,"height":400},
 		{"id":"fadd5021fdbecfcf","type":"file","file":"PCs/Campaign 3/Nesreen Roya Arefi.md","x":1840,"y":1220,"width":400,"height":400},
@@ -28,13 +25,18 @@
 		{"id":"f23c67175188dc38","type":"file","file":"NPCs/Deity/Divine/Ish'Varrak.md","x":-369,"y":1553,"width":400,"height":400},
 		{"id":"69cf6d75153c0310","type":"file","file":"NPCs/Deity/Eldritch/Rhenderal.md","x":400,"y":1553,"width":400,"height":400},
 		{"id":"aaa5d60fbb2c5643","type":"file","file":"NPCs/Ikeshia.md","x":1120,"y":1553,"width":400,"height":400},
-		{"id":"82b48078f2f266bd","type":"file","file":"NPCs/Deity/Divine/Sylvana.md","x":400,"y":273,"width":400,"height":400},
 		{"id":"33ab177cc89d17c3","type":"file","file":"Events/Archaic Vacuum.md","x":1680,"y":3961,"width":400,"height":219},
-		{"id":"dd1b7bdd16b2b3a4","x":1200,"y":-60,"width":400,"height":400,"type":"file","file":"Races/Divine.md"},
+		{"id":"dd1b7bdd16b2b3a4","type":"file","file":"Races/Divine.md","x":1200,"y":-60,"width":400,"height":400},
 		{"id":"14a8672d07aab3e2","type":"file","file":"PCs/Campaign 3/Cecilia Beleth Grim.md","x":-220,"y":2640,"width":400,"height":400},
 		{"id":"87a3f6b49c8852bc","type":"file","file":"NPCs/Deity/Idols/Idol of Cycles.md","x":1680,"y":2160,"width":400,"height":400},
-		{"id":"a6fafd8efe98b895","x":800,"y":2160,"width":400,"height":400,"type":"file","file":"Locations/The Wall.md"},
-		{"id":"c7443eb9a9a0fd0c","type":"text","text":"Key\nPurple=Theory\nBlue=NPC Theory","x":-690,"y":-1040,"width":410,"height":400,"color":"4"}
+		{"id":"a6fafd8efe98b895","type":"file","file":"Locations/The Wall.md","x":800,"y":2160,"width":400,"height":400},
+		{"id":"c7443eb9a9a0fd0c","type":"text","text":"Key\nPurple=Theory\nBlue=NPC Theory","x":-690,"y":-1040,"width":410,"height":400,"color":"4"},
+		{"id":"f07ae5da30d935ac","x":800,"y":-640,"width":400,"height":400,"type":"file","file":"NPCs/Deity/Divine/Ranas.md"},
+		{"id":"82b48078f2f266bd","type":"file","file":"NPCs/Deity/Divine/Sylvana.md","x":600,"y":-43,"width":400,"height":367},
+		{"id":"33f11615288c0707","type":"file","file":"Creatures/Day Feaster.md","x":0,"y":40,"width":400,"height":201},
+		{"id":"ca8ddc3bce621670","type":"file","file":"PCs/Campaign 3/Kronas.md","x":800,"y":-1200,"width":400,"height":400},
+		{"id":"c4967c3cbdff982b","type":"file","file":"Magic/Twin Ritual.md","x":1481,"y":-1200,"width":400,"height":400},
+		{"id":"352858e7c359d708","x":3415,"y":-1040,"width":400,"height":400,"type":"file","file":"Locations/Veladryn/The Hyperion Oath/The Hyperion Oath.md"}
 	],
 	"edges":[
 		{"id":"05615f7a82a1938f","fromNode":"352936cf7b626238","fromSide":"right","toNode":"fdf37018035120b4","toSide":"left","label":"Can control"},
@@ -65,12 +67,15 @@
 		{"id":"7625b6bbc12cf157","fromNode":"ed1c5ba4d9f8f078","fromSide":"right","toNode":"66e2b1aac050d31b","toSide":"left","toEnd":"none"},
 		{"id":"4cebccfa8f874091","fromNode":"f2a6c15c7d5a6d16","fromSide":"left","toNode":"b327701bb760c57e","toSide":"right","label":"Professor\nPlaced Zyrn Rune"},
 		{"id":"c1abf2048a9fde0d","fromNode":"f2a6c15c7d5a6d16","fromSide":"top","toNode":"fdf37018035120b4","toSide":"right","label":"Can control"},
-		{"id":"68afffa8c6441464","fromNode":"33f11615288c0707","fromSide":"top","toNode":"82b48078f2f266bd","toSide":"bottom","label":"Don't like"},
 		{"id":"80b424b8622ec7db","fromNode":"352936cf7b626238","fromSide":"bottom","toNode":"fadd5021fdbecfcf","toSide":"right","label":"Enslaved"},
 		{"id":"a16306b1b40ce22e","fromNode":"dd1b7bdd16b2b3a4","fromSide":"right","toNode":"081c8e7d3142e056","toSide":"left","toEnd":"none"},
 		{"id":"281c855f3dc5e977","fromNode":"82b48078f2f266bd","fromSide":"right","toNode":"dd1b7bdd16b2b3a4","toSide":"left","toEnd":"none"},
 		{"id":"105fa322122b285e","fromNode":"14a8672d07aab3e2","fromSide":"bottom","toNode":"b07b427b4507fcd2","toSide":"top","label":"visions"},
 		{"id":"252a26aef70e4853","fromNode":"69cf6d75153c0310","fromSide":"right","toNode":"a6fafd8efe98b895","toSide":"top","color":"5","label":"created"},
-		{"id":"1587c7c6d9af11f8","fromNode":"a6fafd8efe98b895","fromSide":"right","toNode":"aaa5d60fbb2c5643","toSide":"bottom","label":"keep in past"}
+		{"id":"1587c7c6d9af11f8","fromNode":"a6fafd8efe98b895","fromSide":"right","toNode":"aaa5d60fbb2c5643","toSide":"bottom","label":"keep in past"},
+		{"id":"da1d638301a94ff9","fromNode":"33f11615288c0707","fromSide":"right","toNode":"82b48078f2f266bd","toSide":"left","label":"dont like"},
+		{"id":"17e909b1edec75df","fromNode":"dd1b7bdd16b2b3a4","fromSide":"top","toNode":"f07ae5da30d935ac","toSide":"bottom","toEnd":"none"},
+		{"id":"c807c97316ebf404","fromNode":"ca8ddc3bce621670","fromSide":"bottom","toNode":"f07ae5da30d935ac","toSide":"top","label":"Worship"},
+		{"id":"9fa661d7f8cc26c9","fromNode":"d9c3188834dc9aae","fromSide":"right","toNode":"352858e7c359d708","toSide":"left","fromEnd":"arrow","label":"Allied"}
 	]
 }
