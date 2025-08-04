@@ -1,3 +1,3 @@
 *Commander*
+[[Leonidas]]' Descendant. Strongest [[Eidolon]].
 ![[Legion.png]]
-Searching for [[Ikeshia]]. [[Leonidas]]' past self?

@@ -1,2 +1,2 @@
-[[Nesreen Roya Arefi]]'s past self?
+[[Nesreen Roya Arefi]]'s Ancestor. Strongest [[Harmonist]] in history. 
 ![[Ikeshia.png]]

@@ -1,0 +1,1 @@
+A [[Spirit]] that was [[Chaos]] personified. Was under control of [[Shoroh Morningstar]] as a result of his [[Asterism]].
