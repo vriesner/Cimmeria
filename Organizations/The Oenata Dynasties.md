@@ -1,0 +1,1 @@
+Led by the *Grand Emperor*, [[Inari Arashi]].

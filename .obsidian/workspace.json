@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3634966e9746966e",
+        "id": "802b97d375115416",
         "type": "tabs",
         "children": [
           {
-            "id": "ced2477a0f1b302e",
+            "id": "dac12a30d70a93ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "'The Board'.canvas",
-                "viewState": {
-                  "x": 2326.0972821708424,
-                  "y": 1606.1511021139554,
-                  "zoom": -2.4532561972936877
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "'The Board'"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -182,18 +175,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ced2477a0f1b302e",
+  "active": "dac12a30d70a93ec",
   "lastOpenFiles": [
+    "Seven Travelers.md",
+    "NPCs/Deity/Divine/Mytar.md",
+    "NPCs/Deity/Idols/Idol of Ascension.md",
+    "_Images/Idol of Ascension.png",
+    "_Images/Aeon.png",
+    "'The Board'.canvas",
+    "Organizations/The Oenata Dynasties.md",
+    "NPCs/Deity/Essentia/Veil Fire.md",
+    "Locations/Cimmeria.md",
+    "Dysius.md",
+    "NPCs/Deity/Divine/Erbium.md",
+    "Untitled.canvas",
+    "NPCs/Deity/Divine/Essolus.md",
+    "NPCs/Deity/Idols/Idol of Stars.md",
+    "NPCs/Deity/Idols/Idol of Cycles.md",
+    "The Ones Above.md",
     "Locations/The Wall.md",
     "Locations/Aellorium.md",
     "NPCs/Jarcosian/Ithren Valcoris.md",
     "NPCs/Deity/Lobos Zul.md",
     "NPCs/Deity/Gorvhaith.md",
-    "NPCs/Deity/Idols/Idol of Cycles.md",
-    "'The Board'.canvas",
     "Creatures/Fayth'Heart.md",
     "_Images/Ithren Valcoris.png",
-    "Untitled.canvas",
     "Events/Archaic Vacuum.md",
     "Creatures/Being from the Beyond.md",
     "NPCs/Deity/Eldritch/Otragon.md",
@@ -203,17 +209,6 @@
     "NPCs/Deity/Eldritch/Rhenderal.md",
     "Locations/Cabechon.md",
     "2025-07-14.md",
-    "Races/Obake.md",
-    "NPCs/Kismet/Rome Navi.md",
-    "Organizations/Jarcosian Senate/Polaris.md",
-    "Organizations/Jarcosian Senate/Paragonic Covenant.md",
-    "NPCs/Deity/Essentia/Wild Song.md",
-    "NPCs/Zavana.md",
-    "PCs/Campaign 3/Caelix Velathir.md",
-    "PCs/Campaign 3/Cecilia Beleth Grim.md",
-    "PCs/Campaign 3/Kronas.md",
-    "PCs/Campaign 3/Nesreen Roya Arefi.md",
-    "PCs/Campaign 3/Leonidas.md",
     "Locations/Blank",
     "_Images/Therinoth.png",
     "Locations/Thalvorys",
@@ -225,13 +220,11 @@
     "_Images/Kiaru.png",
     "NPCs/Eryndar",
     "_Images/Serath Rhae.png",
-    "_Images/The Severant.png",
     "NPCs/Marii",
     "Events",
     "NPCs/Jarcosian",
     "NPCs/Warden",
     "NPCs/Anomai",
-    "_Images/Nesreen.png",
     "Untitled 1.canvas",
     "Campaign 1/Timeline/Timeline.canvas",
     "Untitled 2.canvas"
