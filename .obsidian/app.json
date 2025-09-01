@@ -1,8 +1,3 @@
 {
-  "alwaysUpdateLinks": true,
-  "userIgnoreFilters": [
-    "_Images/",
-    "README",
-    "Tier List"
-  ]
+  "alwaysUpdateLinks": true
 }

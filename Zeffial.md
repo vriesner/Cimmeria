@@ -1,0 +1,2 @@
+*Faustian*
+![[Zeffial.png]]

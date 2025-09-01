@@ -1,0 +1,2 @@
+*Son of Tonics, Blood of Stars and Divinity, Being Born of Blood and Regret*
+A first generation [[Sun Touched]] [[Kismet]] Warlord. Hybrid [[Divine]]. Leader of [[The Bloodletters]]. Child of [[Ailridon]].

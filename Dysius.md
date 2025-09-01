@@ -1,1 +1,1 @@
-Worships Arcadia?
+A [[Human]] from [[Arcadia]]
