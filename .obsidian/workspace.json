@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malbor.md",
+                "file": "Shards of the Origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Malbor"
+              "title": "Shards of the Origin"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "f0809d35dada438a",
   "lastOpenFiles": [
-    "Ailridon.md",
     "Malbor.md",
+    "Ailridon.md",
     "Drenyx.md",
     "Krenyx.md",
     "Zeffial.md",
