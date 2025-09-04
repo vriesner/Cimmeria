@@ -1,1 +1,1 @@
-Used by [[Mateo]] and [[The Faustian]]
+Used by [[Mateo]] and [[Faustians]]
