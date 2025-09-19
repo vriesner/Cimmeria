@@ -1,1 +1,1 @@
-Is a [[Being from the Beyond]]
+Is a [[Beyonder]]

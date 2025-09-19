@@ -1,2 +1,2 @@
 Divine of the Golden Order
-The founder of modern Sacrementa
+The founder of modern [[Sacramenta]]

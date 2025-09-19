@@ -1,2 +1,2 @@
-[[Aeon]] restarted the stars.
+[[Aeon]] restarted the stars?
 Changed Magic System?

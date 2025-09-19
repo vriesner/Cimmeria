@@ -1,6 +1,6 @@
 *The Everpresent Mother*
 
-Controls the [[Lavender]]. Is a [[Being from the Beyond]]
+Controls the [[Lavender]]. Is a [[Beyonder]]
 
 Black hair, light blue eyes, black leaking off her skin, scar on cheek
 

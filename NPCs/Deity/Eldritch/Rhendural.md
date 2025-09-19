@@ -1,4 +1,4 @@
 *Time Breaker*
-Separated [[Ikeshia]] and [[Legion]]. Can rewind [[Being from the Beyond]] back to life
+Separated [[Ikeshia]] and [[Legion]]. Can rewind [[Beyonder]] back to life
 
 #eldritch

@@ -1,0 +1,2 @@
+A transfer of power through a wish. Must be heard by some being(s) of higher power.
+During the Era of Divinity, Transference was high, presumably because the [[Second Sun]] was constantly there to answer wishes

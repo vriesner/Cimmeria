@@ -1,1 +1,0 @@
-Entered through the wound in the [[Aellorium]]. 

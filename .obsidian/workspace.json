@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7bdb74af5863619f",
+        "id": "80673969700190e6",
         "type": "tabs",
         "children": [
           {
-            "id": "f0809d35dada438a",
+            "id": "821d169bfd66b764",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "'The Board'.canvas",
                 "viewState": {
-                  "x": 1825.7785571930003,
-                  "y": 1557.2429255212721,
-                  "zoom": -3.476266057500557
+                  "x": 95.65413203440073,
+                  "y": 3606.6077577513324,
+                  "zoom": -1.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "'The Board'"
-            }
-          },
-          {
-            "id": "8883cef35b2a84a0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -66,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fowl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,36 +183,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0809d35dada438a",
+  "active": "821d169bfd66b764",
   "lastOpenFiles": [
-    "Organizations/The Challengers.md",
-    "The Ones Above.md",
-    "Shards of the Origin.md",
-    "Seven Travelers.md",
+    "Creatures/Span-Stealer.md",
     "'The Board'.canvas",
-    "Locations/The Wall.md",
-    "Locations/Arcadia.md",
-    "NPCs/Zeffial.md",
-    "NPCs/Krenyx.md",
-    "NPCs/Kismet/Sun Touched/Malbor.md",
+    "Religions/Stars.md",
+    "Races/Aoxenian.md",
+    "Roscaris.md",
+    "Organizations/The Challengers.md",
+    "Creatures/Nulthera.md",
+    "Magic/Relic/Bloodstar.md",
+    "Transference.md",
+    "Shards of the Origin.md",
     "NPCs/Deity/Divine/Ailridon.md",
-    "NPCs/Deity/Divine/Ailridon.md",
-    "Creatures/Praxid.md",
-    "NPCs/Kismet/Ikeshia.md",
-    "NPCs/Human/Legion.md",
-    "NPCs/Human/Vitruvio Char.md",
-    "NPCs/Human/Dysius.md",
-    "NPCs/Human",
-    "Titles/Wheelbearer.md",
-    "Titles/Thane.md",
-    "Titles/Sun Touched.md",
-    "Titles/Sun Born.md",
-    "Titles/Sky Born.md",
-    "Titles/Chaos Born.md",
-    "Magic/Twin Ritual.md",
-    "Magic/Stagnation.md",
+    "Sacramenta.md",
+    "Rubaeus.md",
+    "Events/Pulse.md",
+    "Creatures/Beyonder.md",
+    "Locations/Guildrift Belt.md",
+    "NPCs/Anomai/Deimos Godfreid.md",
+    "Hyperia.md",
+    "Ahkajel.md",
+    "NPCs/Deity/Eldritch/Daora.md",
+    "Herald.md",
+    "Covenance.md",
+    "Magic/The Mists/Lavender.md",
+    "Locations/Aellorium.md",
     "Magic/Malevolence.md",
-    "Magic/Focus.md",
+    "The Ones Above.md",
+    "NPCs/Human",
     "_Images/Adria.png",
     "_Images/Zeffial.png",
     "_Images/Idol of Ascension.png",
