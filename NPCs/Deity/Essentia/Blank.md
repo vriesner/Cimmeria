@@ -1,5 +1,6 @@
 Home of the [[Idols]]. The newest [[Essentia]].
 The reason mortals cannot rest.
+
 Colours: White and Black
 Statue: Gaunt, spindly, perfect geometric circle. Fog
 

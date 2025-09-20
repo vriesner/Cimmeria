@@ -1,3 +1,2 @@
-[[Xomedan]] appeared after the death of the Sun Touched
-[[C'thari]] worship the [[Selenic Heart]]
+Created [[Xomedan]]s from [[Mercury]].
 Will create [[Stagnation]] on Cimmeria

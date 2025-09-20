@@ -15,9 +15,9 @@
               "state": {
                 "file": "'The Board'.canvas",
                 "viewState": {
-                  "x": -374.9940953822859,
-                  "y": 2143.8230128690384,
-                  "zoom": -2.4170974109447543
+                  "x": 1813.980609389824,
+                  "y": 1543.776466790221,
+                  "zoom": -0.41709741094475444
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thalv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,13 +185,21 @@
   },
   "active": "821d169bfd66b764",
   "lastOpenFiles": [
+    "Pasted image 20250919200816.png",
+    "Pasted image 20250919200710.png",
+    "Apophis.md",
+    "Locations/Guildrift Belt.md",
+    "Thalvorys.md",
+    "'The Board'.canvas",
+    "Magic/The Mists/Black Mist.md",
+    "Religions/Ascension.md",
+    "NPCs/Deity/Idols/Idol of Ascension.md",
     "Locations/Veladryn/The Culmination.md",
     "Locations/Veladryn/Relics of Veritan.md",
     "Locations/Veladryn/Aleria.md",
     "NPCs/Beyonder/Otragon.md",
     "Locations/Veladryn/The Hyperion Oath/The Hyperion Oath.md",
     "NPCs/Faustian",
-    "'The Board'.canvas",
     "Creatures/Span-Stealer.md",
     "Religions/Stars.md",
     "Races/Aoxenian.md",
@@ -205,13 +214,6 @@
     "Magic/Rubaeus.md",
     "Events/Pulse.md",
     "Creatures/Beyonder.md",
-    "Locations/Guildrift Belt.md",
-    "NPCs/Anomai/Deimos Godfreid.md",
-    "Locations/Veladryn/The Hyperion Plateau/Hyperia.md",
-    "NPCs/Beyonder/Ahkajel.md",
-    "NPCs/Beyonder/Daora.md",
-    "Herald.md",
-    "Magic/Covenance.md",
     "NPCs/Human",
     "_Images/Adria.png",
     "_Images/Zeffial.png",
@@ -227,7 +229,6 @@
     "NPCs/Kynikos",
     "NPCs/Errant",
     "_Images/Legion.png",
-    "_Images/Fialova.jpg",
     "NPCs/Eryndar",
     "NPCs/Marii",
     "Events",
