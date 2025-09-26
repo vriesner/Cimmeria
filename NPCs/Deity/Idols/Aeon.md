@@ -1,3 +1,4 @@
-Idol of the [[Wheelbearer]], a [[Spirit]]
+*Idol of Cycles. Idol of the [[Wheelbearer]]*
 ![[Aeon.png]]
-#C1NPCs #dead 
+![[Idol of Cycles.png]]
+#C1NPCs #C2NPCs #C3NPCs #Idol

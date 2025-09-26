@@ -1,4 +1,4 @@
-[[Idol of Cycles]]
+[[Aeon]]
 
 Idol of the Wheelbearer, [[Aeon]], a [[Spirit]].
 Idol of the [[Second Sun]], [[Idol of Ascension]]. 

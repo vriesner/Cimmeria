@@ -1,5 +1,7 @@
 *Time Breaker*
+Came from [[Beyond]] the [[Aellorium]] but forced himself inside through the crack.
+Controls space, time, and gravity
 Separated [[Ikeshia]] and [[Legion]]. Can rewind [[Beyonder]] back to life
-![[Pasted image 20250919200710.png]]
+![[Rhendural.png]]
 
-#eldritch
+#beyonder
