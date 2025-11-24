@@ -1,5 +1,4 @@
-Home of the [[Idols]]. The newest [[Essentia]].
-The reason mortals cannot rest.
+Home of the [[Idol]]. The newest [[Essentia]]. The reason mortals cannot rest. Stops the rewinding of time.
 
 Colours: White and Black
 Statue: Gaunt, spindly, perfect geometric circle. Fog

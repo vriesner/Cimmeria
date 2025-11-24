@@ -1,2 +1,0 @@
-*Oracle of the Admonition*
-

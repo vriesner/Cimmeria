@@ -5,7 +5,7 @@ Ajdajin
 Perhaps [[Vaena]]
 
 Might be associated with the [[Mists]]
-Might all be considered [[Idols]]
+Might all be considered [[Idol]]
 
 Primarily worshiped by Xomedans, C'thari, and Lavenskin.
 

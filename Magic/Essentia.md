@@ -22,6 +22,6 @@ Era of Apostasy Episode 2. 1:42:00
 
 [[Blank]] - White and black. gaunt, spindly, lines of black and white, perfect geometric circle with a fog. Newest Essentia.
 
-[[Bloodstar]] - Thought to possibly be the eleventh Essentia. 
+[[Tome of the Bloodstar]] - Thought to possibly be the eleventh Essentia. 
 
 [[The Laws of Manifestation]] are how mortals use magic

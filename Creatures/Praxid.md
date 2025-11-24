@@ -1,1 +1,1 @@
-Keepers of the [[The Laws of Manifestation]]. They protect the [[Idols]] from threats across the veil.
+Keepers of the [[The Laws of Manifestation]]. They protect the [[Idol]] from threats across the veil.

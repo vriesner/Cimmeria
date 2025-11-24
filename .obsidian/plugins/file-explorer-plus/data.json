@@ -60,6 +60,13 @@
         "type": "FILES",
         "pattern": "README.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "_Images",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
