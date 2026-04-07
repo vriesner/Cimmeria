@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"4525de0c3de5a8f5","type":"file","file":"Binding.md","x":2200,"y":2662,"width":400,"height":400},
+		{"id":"28fc0dd67f474f59","type":"file","file":"NPCs/Deity/Essentia/Tethyrs.md","x":2680,"y":3000,"width":400,"height":400},
+		{"id":"3dbfc4f0d708b027","type":"file","file":"NPCs/Deity/Essentia/Rivyrs.md","x":3200,"y":3000,"width":400,"height":400},
+		{"id":"ca6c2e03213aa084","x":3680,"y":2662,"width":400,"height":400,"type":"file","file":"Moros.md"},
+		{"id":"d4bbe2dabc88ae77","type":"file","file":"Magic/Transference.md","x":4320,"y":2862,"width":400,"height":400},
+		{"id":"3530de3d007bc064","type":"file","file":"Magic/Covenance.md","x":1560,"y":2862,"width":400,"height":400},
+		{"id":"e6f23d3b288b446f","type":"file","file":"Titles/Herald.md","x":2920,"y":3560,"width":400,"height":400},
+		{"id":"ade861fd4adcebf7","x":4080,"y":2210,"width":400,"height":400,"type":"file","file":"Breathing.md"},
+		{"id":"3fa4c3ff44f43218","x":4320,"y":1770,"width":400,"height":400,"type":"file","file":"NPCs/Deity/Essentia/Wild Song.md"},
+		{"id":"ff4d1659d6a9e406","type":"file","file":"Sovereignty.md","x":1800,"y":2210,"width":400,"height":400},
+		{"id":"653c109dfadcc6c2","type":"file","file":"NPCs/Deity/Essentia/Souls.md","x":1520,"y":1770,"width":400,"height":400},
+		{"id":"b4d90e55d1a97793","type":"file","file":"NPCs/Deity/Essentia/Great Forge.md","x":4320,"y":1304,"width":400,"height":400},
+		{"id":"8865565764fe5148","type":"file","file":"NPCs/Deity/Essentia/Span.md","x":1520,"y":1304,"width":400,"height":400},
+		{"id":"eabb3663afcc1dee","type":"file","file":"Religions/Crucible.md","x":4080,"y":872,"width":400,"height":400},
+		{"id":"994f362863872a70","type":"file","file":"Nomic Arts.md","x":1800,"y":872,"width":400,"height":400},
+		{"id":"f1ff7024e3162305","type":"file","file":"NPCs/Deity/Essentia/Vehemence.md","x":2680,"y":120,"width":400,"height":400},
+		{"id":"e40d8ead341b6ef9","type":"file","file":"NPCs/Deity/Essentia/Veil Fire.md","x":3200,"y":120,"width":400,"height":400},
+		{"id":"851e34a20752b5da","type":"file","file":"Halcyon.md","x":3680,"y":440,"width":400,"height":400},
+		{"id":"8a56a3e01ac473d7","type":"file","file":"Magic/Animus.md","x":2200,"y":440,"width":400,"height":400},
+		{"id":"c45cf6aef15f4f17","type":"file","file":"Totality.md","x":1480,"y":-1560,"width":400,"height":400},
+		{"id":"e783460f1d5071cb","type":"file","file":"Magic/Essentia.md","x":2000,"y":-1560,"width":400,"height":400},
+		{"id":"3dc79fc75eae1c58","x":1560,"y":240,"width":400,"height":400,"type":"file","file":"Void.md"},
+		{"id":"e1424920301d7a1e","x":4320,"y":240,"width":485,"height":448,"type":"file","file":"Religions/Ascension.md"},
+		{"id":"f5f96cc855644a5e","x":840,"y":1504,"width":410,"height":400,"color":"6","type":"text","text":"The No Strings Attached Herald\nRhenderal?\nFunneling stolen Asterisms into a person?"},
+		{"id":"39e95548e21c7f0a","x":120,"y":1504,"width":440,"height":400,"type":"file","file":"NPCs/Beyonder/Rhendural.md"},
+		{"id":"2921a04794140e7b","x":2480,"y":-1560,"width":400,"height":400,"type":"file","file":"Titles/Wheelbearer.md"},
+		{"id":"266d595e8c97ebe2","x":2960,"y":1770,"width":400,"height":400,"type":"file","file":"NPCs/Deity/Essentia/Blank.md"},
+		{"id":"fdaada885811425b","x":2960,"y":1304,"width":400,"height":400,"type":"file","file":"NPCs/Deity/Essentia/Tapestry.md"}
+	],
+	"edges":[
+		{"id":"03e21b23d9114cb1","fromNode":"d4bbe2dabc88ae77","fromSide":"bottom","toNode":"e6f23d3b288b446f","toSide":"right"},
+		{"id":"3f4fb5d1313ce585","fromNode":"3530de3d007bc064","fromSide":"bottom","toNode":"e6f23d3b288b446f","toSide":"left"},
+		{"id":"3c8aff933a9abb4a","fromNode":"3dc79fc75eae1c58","fromSide":"left","toNode":"f5f96cc855644a5e","toSide":"top"},
+		{"id":"c64106684ddbeb6b","fromNode":"3530de3d007bc064","fromSide":"left","toNode":"f5f96cc855644a5e","toSide":"bottom"},
+		{"id":"f3ed2c368158a0d7","fromNode":"f5f96cc855644a5e","fromSide":"left","toNode":"39e95548e21c7f0a","toSide":"right","color":"6"}
+	]
+}

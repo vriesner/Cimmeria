@@ -1,0 +1,1 @@
+One of the rites is the [[Tome of the Bloodstar]], which can steal [[Transference]]. 
